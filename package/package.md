@@ -4,7 +4,8 @@
 3. 控制访问范围
 
 ### 包的基本语法
-```package com.lee
+```
+package com.lee
 package 关键字，表示打包
 com.lee 表示包名
 ```
